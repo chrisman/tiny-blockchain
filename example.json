@@ -1,5 +1,10 @@
 {
-  "from": "71238uqirbfh894-random-public-key-a-alkjdflakjfewn204ij",
-  "to": "93j4ivnqiopvh43-random-public-key-b-qjrgvnoeirbnferinfo",
-  "amount": 3
+  "proof_of_work": 9,
+  "transactions": [
+    {
+      "from": "seed",
+      "to": "harper.is.a.dog@gmail.com",
+      "amount": 1
+    }
+  ]
 }
